@@ -1,0 +1,10 @@
+.page{
+    color: blueviolet;
+}
+.page h1{
+    color: green;
+}
+
+.text{
+    text-transform: capitalize;
+}
