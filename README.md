@@ -48,7 +48,7 @@
 
 ## Interfaccia graphiql
 
-- http://localhost:8000/\_\_graphql
+- Introduzione a graphiQL
 
 * esempio semplice utilizzando Explorer
 
