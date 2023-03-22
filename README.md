@@ -66,6 +66,8 @@
 
 ## SiteMetadata
 
-- creazione di un oggetto siteMetadata all'interno del file gatsby-config.js
+- File `gatsby-config.js` contiene metadati, plugin e altre configurazioni generali del sito.
 
-* provare con l'interfaccia graphiQL la query siteMetadata
+* creazione di un oggetto di dati (es. titolo del sito) ed è possibile memorizzarli in siteMetadata.
+
+- provare con l'interfaccia graphiQL la query MyQuery e verificare i dati.
