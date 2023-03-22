@@ -30,9 +30,11 @@
 
 ### Esempio pratico di 3 layout ([This is an external link to gatsbyjs plugin image](https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-plugin-image/#layout)):
 
-    - layout Constrained
-    - layout Fixed
-    - layout Full width
+- layout Constrained
+
+* layout Fixed
+
+- layout Full width
 
 ## Introduzione a GraphQL
 
