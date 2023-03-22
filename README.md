@@ -65,3 +65,7 @@
 - - createPages
 
 ## SiteMetadata
+
+- creazione di un oggetto siteMetadata all'interno del file gatsby-config.js
+
+* provare con l'interfaccia graphiQL la query siteMetadata

@@ -7,7 +7,31 @@
 /**
  * @type {import('gatsby').GatsbyConfig}
  */
+
 module.exports = {
+  siteMetadata: {
+    title: "Introduzione a Gatsby",
+    description: "La vera sfida è scrivere giusto",
+    author: "@andreirosca",
+    type: {
+      category: "SSR",
+      level: "intermediate",
+      score: 8,
+    },
+    dummyData: ["item 1", "item 2"],
+    otherCourses: [
+      {
+        category: "React",
+        level: "junior",
+        score: 7,
+      },
+      {
+        category: "Javascript",
+        level: "basic",
+        score: 7,
+      },
+    ],
+  },
   plugins: [
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-image`,
