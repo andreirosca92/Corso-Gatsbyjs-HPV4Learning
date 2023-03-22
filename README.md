@@ -1,8 +1,6 @@
-
 # Corso-Gatsbyjs-HPV4Learning
 
 ## Introduzione a Gatsby e Installazione
-
 
 ## Creare un progetto
 
@@ -21,3 +19,7 @@
 ## Inline e Global CSS
 
 ## CSS Module
+
+## Styled Components
+
+## Gatsby Images
