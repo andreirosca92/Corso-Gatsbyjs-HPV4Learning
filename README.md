@@ -25,3 +25,5 @@
 ## Gatsby Images
 
 ## Gatsby Images vs Image Tag
+
+## La proprietà layout
