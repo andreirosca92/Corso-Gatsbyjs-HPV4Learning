@@ -71,3 +71,7 @@
 * creazione di un oggetto di dati (es. titolo del sito) ed è possibile memorizzarli in siteMetadata.
 
 - provare con l'interfaccia graphiQL la query MyQuery e verificare i dati.
+
+## Le Query Statiche
+
+## Query delle pagine
