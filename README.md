@@ -23,3 +23,5 @@
 ## Styled Components
 
 ## Gatsby Images
+
+## Gatsby Images vs Image Tag
