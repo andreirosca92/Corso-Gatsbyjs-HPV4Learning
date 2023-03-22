@@ -44,4 +44,24 @@
 
 - GraphQL modo di fare richieste
 
-* GraphQL interface
+* GraphiQL interface
+
+## Interfaccia graphiql
+
+- http://localhost:8000/\_\_graphql
+
+* esempio semplice utilizzando Explorer
+
+- Utilizzo di History
+
+* Come funziona Prettify
+
+* Introduzione a Code Explorer
+
+- - Page Query
+
+* - useStaticQuery
+
+- - createPages
+
+## SiteMetadata
