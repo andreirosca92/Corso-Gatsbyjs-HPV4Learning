@@ -27,3 +27,13 @@
 ## Gatsby Images vs Image Tag
 
 ## La proprietà layout
+
+## Introduzione a GraphQL
+
+- Basato su React
+
+* Data Layer in GraphQL
+
+- GraphQL modo di fare richieste
+
+* GraphQL interface
