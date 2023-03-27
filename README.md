@@ -77,3 +77,5 @@
 ## Query delle pagine
 
 ## Configurare File System
+
+## Gatsby Images
