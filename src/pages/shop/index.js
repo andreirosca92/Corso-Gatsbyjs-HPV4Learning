@@ -1,8 +1,8 @@
-import { Link } from "gatsby"
+import { Link, graphql } from "gatsby"
 import React from "react"
 
-const ShopHome = props => {
-  console.log(props)
+const ShopHome = ({ data }) => {
+  const title = data.site.info.title
   return (
     <div>
       <h1>ShopHome</h1>
@@ -16,11 +16,12 @@ const ShopHome = props => {
         <Link to="/shop/shoes/">Shoes</Link>
         <Link to="/shop/socks/">Socks</Link>
       </nav>
+      <div className="spacer">{title}</div>
     </div>
   )
 }
-const data = graphql`
-  query MyFirstQuery {
+export const data = graphql`
+  query MySecondQuery {
     site {
       info: siteMetadata {
         title

@@ -75,3 +75,5 @@
 ## Le Query Statiche
 
 ## Query delle pagine
+
+## Configurare File System
